@@ -15,7 +15,7 @@ img {
 /* paragraph style */
 p {
   
-  background-color:rgba(65, 105, 225, 0.637);
+  background-color:rgba(225, 142, 65, 0.808);
   
   
 }
@@ -23,19 +23,19 @@ p {
 h1 {
   text-align: center;
   font-style: oblique;
-  background-color: rgba(65, 105, 225, 0.637);
+  background-color: rgba(225, 142, 65, 0.808);
   color:navajowhite;
 }
 h2 {
   text-align: center;
   font-style: oblique;
-  background-color: rgba(65, 105, 225, 0.637);
+  background-color: rgba(225, 142, 65, 0.808) ;
     color: navajowhite;
 }
 h3 {
   
   font-style: oblique;
-  background-color: rgba(65, 105, 225, 0.637);
+  background-color: rgba(225, 142, 65, 0.808);
     color:navajowhite;
 }
 /* ul style */
